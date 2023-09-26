@@ -26,7 +26,7 @@ class BankAccount:
 
 
 # Creating an instance of BankAccount
-my_account = BankAccount("12345", "Sriram", 1000)
+my_account = BankAccount("12345", "Dharshini Priya", 1000)
 print(my_account.display_balance())
 
 # Depositing money
